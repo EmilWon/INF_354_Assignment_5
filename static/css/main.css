@@ -1,0 +1,24 @@
+.body{
+    background-color: rgb(226, 226, 226);
+}
+
+.container{
+    margin-top: 2%;
+    border-style: solid;
+    border-width: thick;
+    background-color: skyblue;
+    margin-bottom: 2%;
+}
+
+.container h1{
+    margin-top: 1%;
+}
+
+.tbl h1{
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+.btn{
+    width: 100%;
+}

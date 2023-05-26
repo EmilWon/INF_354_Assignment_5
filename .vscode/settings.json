@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "files.associations": {
+        // extension name : html
+        "*.html": "html",
+        "*.js": "html"
+    },
+    "editor.linkedEditing": true
+}
